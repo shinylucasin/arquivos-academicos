@@ -1,0 +1,1 @@
+Sensor: nao | Valor: 57,8 | Data/Hora: 2025-10-21 20:48:16

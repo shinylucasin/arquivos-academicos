@@ -1,0 +1,3 @@
+Nome: Lucas
+Idade: 18
+Nota: 7.5
