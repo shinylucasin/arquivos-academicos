@@ -20,7 +20,7 @@ Eles estão divididos da seguinte forma:
 * **[Fundamentos-Web/](./web):** Projetos iniciais de interface, explorando a semântica do HTML5, estilização com CSS3 e interatividade básica com JavaScript.
 
 
-- Resumidamente, as linguagens aqui presentes são: [C](https://en.cppreference.com/w/c) | [C++](https://isocpp.org/) | [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [Python](https://www.python.org/)
+- Resumidamente, as linguagens aqui presentes são: [C](https://www.c-language.org/) | [C++](https://isocpp.org/) | [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [Python](https://www.python.org/)
 
 
 ---
